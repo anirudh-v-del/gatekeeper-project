@@ -8,7 +8,7 @@ It showcases the system workflow using a project presentation and a demo video.
 To design and demonstrate a gatekeeping mechanism 
 
 ## Demo Video
-▶️ Paste your Google Drive or YouTube link here
+https://drive.google.com/file/d/1dna_NPFWjRkniFPlA5OdXerm5De3G0C0/view?usp=drive_link
 
 ## Contents
 - Project presentation (PPT)
